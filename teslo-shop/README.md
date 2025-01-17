@@ -14,3 +14,10 @@ Ejecutar el docker de MySQL
 
 /dacryo-dev/devops/docker/mysql
 docker compose up -d
+
+6. Ejecutar Seed
+   Get
+
+```
+localhost:3000/api/seed
+```
